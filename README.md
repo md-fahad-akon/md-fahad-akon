@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @md-fahad-akon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm Mosiur Fahad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
