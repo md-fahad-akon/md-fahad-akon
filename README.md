@@ -4,17 +4,11 @@
 
 - 🔭 I’m currently working on **College projects**
 
-- 🌱 I’m currently learning **Metasploit, Linux**
+- 👯 I’m looking to collaborate on **Open-Source-Projects**
 
-- 👯 I’m looking to collaborate on **Google**
-
-- 🤝 I’m looking for help with **Microsoft**
-
-- 💬 Ask me about **HTML, CSS, BootStrap**
+- 💬 Ask me about **Front-end/Git**
 
 - 📫 How to reach me **mosiur.fahad@gmail.com**
-
-- ⚡ Fun fact **czxz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
